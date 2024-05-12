@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me / insta- @aastikrajput
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: haha
 
 <!---
 Astik01/Astik01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
