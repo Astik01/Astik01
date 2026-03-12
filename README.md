@@ -1,19 +1,108 @@
-<h1 align="center">Astik Kumar</h1>
-<h3 align="center">Building Data-Driven Solutions & Scalable Systems</h3>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=astik01&label=Profile%20views&color=0e75b6&style=flat" alt="astik01" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=astik01" alt="astik01" /></a> </p> -->
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/astik kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="astik kumar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/astik01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="astik01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/astik1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="astik1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/aastikrqqu2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/aastikrqqu2" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/astik-kumar-a94aa628a/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:aastikrajput1@gmail.com" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=astik01&show_icons=true&locale=en" alt="astik01" /></p>
+Hi, I'm <b>Astik Kumar</b>, a Computer Science student 👨🏻‍💻 from India.  
+I enjoy solving complex problems using <b>Data Structures and Algorithms</b> and building projects involving <b>backend development and data analytics</b>.  
+
+I'm currently focused on improving my skills in <b>system design, scalable backend systems, and data-driven applications</b>.  
+
+Beside coding, I enjoy exploring new technologies and continuously improving my problem-solving skills.
+
+<br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+
+- 🎓 B.Tech CSE — 6th Semester  
+- 📍 Bengaluru, India  
+- 📫 How to reach me: aastikrajput1@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/astik-kumar-a94aa628a/
+
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Astik01" alt="Astik01" /> </p>
+
+</br>
+
+### Languages and Tools:
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/pandas/pandas.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/hadoop/hadoop.png"></code>
+
+---
+
+### 📢 Competitive Programming
+
+<p align="left">
+
+<a href="https://leetcode.com/u/Astik1/">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40">
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/aastikrqqu2">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="40">
+</a>
+
+<a href="https://www.hackerrank.com/profile/Astik01">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" width="40">
+</a>
+
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<a href="https://github.com/Astik01/project1">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astik01&repo=project1&theme=dracula" />
+</a>
+
+<a href="https://github.com/Astik01/project2">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astik01&repo=project2&theme=dracula" />
+</a>
+
+<a href="https://github.com/Astik01/project3">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astik01&repo=project3&theme=dracula" />
+</a>
+
+---
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&theme=gotham" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Astik01&theme=gotham" />
+
+</p>
+
+</details>
+
+---
+
+<div align="center">
+
+### ⭐ Show some support by starring repositories!
+
+</div>
