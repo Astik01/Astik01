@@ -1,3 +1,6 @@
+<h1 align="center">Astik Kumar</h1>
+<h3 align="center">Building Data-Driven Solutions & Scalable Systems</h3>
+
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 <p align="left">
@@ -16,7 +19,6 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 
 <br>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 - 🎓 B.Tech CSE — 6th Semester  
 - 📍 Bengaluru, India  
@@ -56,15 +58,15 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 <p align="left">
 
 <a href="https://leetcode.com/u/Astik1/">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" width="40">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40">
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/aastikrqqu2">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg" width="40">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40">
 </a>
 
 <a href="https://www.hackerrank.com/profile/Astik01">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg" width="40">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40">
 </a>
 
 </p>
@@ -73,7 +75,7 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 
 ### 🚀 Featured Projects
 
-<a href="https://github.com/Astik01/project1">
+<!-- <a href="https://github.com/Astik01/project1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astik01&repo=project1&theme=dracula" />
 </a>
 
@@ -83,7 +85,7 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 
 <a href="https://github.com/Astik01/project3">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astik01&repo=project3&theme=dracula" />
-</a>
+</a> -->
 
 ---
 
@@ -103,6 +105,5 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 
 <div align="center">
 
-### ⭐ Show some support by starring repositories!
 
 </div>
