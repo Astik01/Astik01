@@ -24,11 +24,10 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 - 📊 Exploring data analytics, machine learning, and data-driven applications
 - 🚀 Planning to build scalable systems and work with distributed data technologies
 
-<br>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Astik01" alt="Astik01" /> </p>
 
-</br>
 
 ### Languages
 
@@ -66,6 +65,7 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"></code>
 
 ### 📢 Competitive Programming
+---
 
 <p align="left">
 
@@ -83,7 +83,7 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 
 </p>
 
----
+
 
 <!-- ### 🚀 Featured Projects -->
 
@@ -99,19 +99,18 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Astik01&repo=project3&theme=dracula" />
 </a> -->
 
----
 
-<details>
 GitHub Activity
-
+---
 <p align="center">
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&theme=gotham" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astik01&theme=gotham" />
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Astik01&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </p>
 
-</details>
 
 ---
 
