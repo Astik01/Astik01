@@ -105,7 +105,7 @@ Beside coding, I enjoy exploring new technologies and continuously improving my 
 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&theme=gotham" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&theme=gotham" /> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Astik01&theme=gotham" />
 
