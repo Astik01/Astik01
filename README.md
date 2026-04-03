@@ -77,10 +77,10 @@ When I'm not coding, I'm exploring new technologies, grinding competitive progra
 ## 📊 GitHub Stats
 
 <a href="https://github.com/Astik01">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true&count_private=true" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=Astik01&show_icons=true&hide_border=true&theme=tokyonight&title_color=a78bfa&icon_color=a78bfa&include_all_commits=true&count_private=true&cache_seconds=1800" />
 </a>
 <a href="https://github.com/Astik01">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8&card_width=320&theme=tokyonight&title_color=a78bfa" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astik01&hide_border=true&layout=compact&langs_count=8&card_width=320&theme=tokyonight&title_color=a78bfa&cache_seconds=1800" />
 </a>
 
 <br/><br/>
